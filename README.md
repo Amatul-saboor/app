@@ -5,7 +5,7 @@ A web app for a UK energy supplier's day-ahead buying team. It answers two quest
 1. **What wind did the forecast promise when we had to decide?** For any purchase decision in January 2026, it shows the wind forecast that was actually available at decision time, next to the wind that really blew.
 2. **How far can the forecast be trusted?** It measures how wrong those forecasts were across all of January, and turns that into a safety margin a buyer can use.
 
-**Live app:** _add the Vercel URL here after deploying_
+**Live app:** https://app-seven-rouge-96.vercel.app
 
 ---
 
